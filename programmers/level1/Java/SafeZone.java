@@ -1,3 +1,4 @@
+/* 프로그래머스 안전지대 */
 public class SafeZone {
     int[][] newBoard;
 
